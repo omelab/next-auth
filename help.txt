@@ -1,0 +1,5 @@
+https://dev.to/sirwanafifi/recoil-with-react-and-typescript-2hif
+https://dev.to/sirwanafifi
+https://dev.to/mgranados/how-to-build-a-simple-login-with-nextjs-and-react-hooks-255
+https://techsolutionshere.com/how-to-use-recoiljs-in-next-js-framework/
+https://jasonwatmore.com/post/2021/09/23/react-hook-form-reset-form-with-default-values-and-clear-errors
