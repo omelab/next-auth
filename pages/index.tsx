@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className="card mt-4">
           <h4 className="card-header">
-            You're logged in with Next.js 11 & JWT!!
+            You re logged in with Next.js 11 & JWT!!
           </h4>
           <div className="card-body">
             <h6>Users from secure api end point</h6>
